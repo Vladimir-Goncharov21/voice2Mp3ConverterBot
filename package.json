@@ -1,0 +1,16 @@
+{
+  "name": "voice2mp3converterbot",
+  "version": "1.0.0",
+  "description": "telegram bot converting voice messagers to mp3 files",
+  "license": "MIT",
+  "author": "https://github.com/Vladimir-Goncharov21",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+  },
+  "dependencies": {
+    "axios": "^1.14.0",
+    "light-audio-converter": "^1.0.6",
+    "telegraf": "^4.16.3"
+  }
+}
